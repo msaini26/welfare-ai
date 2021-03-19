@@ -2,6 +2,10 @@
 Note: Video demo shows the features of our product but doesn't really explain how they were used. The following explains that information.
 https://youtu.be/bbONkVBQmPM
 
+## Update
+> * Awarded 2nd Place Overall at HackUNT
+> * Received Honorable Mention for Best Artificial Intelligence or Machine Learning Hack at MenloHacks
+
 ## Inspiration
 More than 2 in 5 US residents reported symptoms of depression and anxiety during the pandemic. As students, we have realized that a lot of our time is spent in front of a laptop and first-hand watched our mental health deteriorate during the pandemic. That’s why having an application like WelfareAI is so important!
 
